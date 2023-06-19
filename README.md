@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/kalitatinkumon1" target="blank"><img src="https://img.shields.io/twitter/follow/kalitatinkumon1?logo=twitter&style=for-the-badge" alt="kalitatinkumon1" /></a> </p>
 
-- 🔭 I’m currently working on [HealthHub](https://github.com/Tinku245/HealthHub)
+
 
 - 🌱 I’m currently learning **mongodb,react native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tinku245/portfolio](https://github.com/Tinku245/portfolio)
+
 
 - 💬 Ask me about **Android,express**
 
