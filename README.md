@@ -24,7 +24,7 @@
 <a href="https://twitter.com/kalitatinkumon1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalitatinkumon1" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ponku.koli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ponku.koli/" height="30" width="40" /></a>
 <a href="https://instagram.com/tiinku_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiinku_07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/tiinku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tiinku/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/TIInku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tiinku/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tinku20ug/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tinku20ug/practice" height="30" width="40" /></a>
 </p>
 
