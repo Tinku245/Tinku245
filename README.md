@@ -1,4 +1,4 @@
-<h1 align="center">Crafting code like a symphony, merging creativity with functionality.</h1>
+<h3 align="center">Crafting code like a symphony, merging creativity with functionality.</h3>
 <!-- <h3 align="center">He</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinku245&label=Profile%20views&color=0e75b6&style=flat" alt="tinku245" /> </p>
