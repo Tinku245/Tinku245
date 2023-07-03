@@ -13,7 +13,7 @@
 
 
 
-- 💬 Ask me about **Android,express**
+- 💬 Ask me about **Node.js,Mongo**
 
 - 📫 How to reach me **tinkumonikalita80@gmail.com**
 
