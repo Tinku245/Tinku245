@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tinkumonikalita80@gmail.com**
 
-- ⚡ Fun fact **I think i m funny.**
+- ⚡ Fun fact **growing with flow or fun?.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
